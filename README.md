@@ -8,3 +8,9 @@ Enviroment variables:
 - `PTERO_SERVERS`: A list of pterodactyl server identifiers seperated by a `,` 
 - `PTERO_DOMAIN`: The url the pterodactyl instance listens on
 - `PTERO_TOKEN`: API key for accessing the Pterodactyl api
+
+Commands:
+- `/whitelist add {player_name}`: Add a player to the whitelist
+- `/whitelist remove {player_name}`: Removes a player from the whitelist
+
+Both commands upload the whitelist to all available servers
