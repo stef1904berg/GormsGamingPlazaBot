@@ -14,3 +14,8 @@ Commands:
 - `/whitelist remove {player_name}`: Removes a player from the whitelist
 
 Both commands upload the whitelist to all available servers
+
+## TODO:
+- [ ] Command permissions
+- [ ] Make servers groups
+- [ ] Add/remove server to server group
