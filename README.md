@@ -10,7 +10,7 @@ Enviroment variables:
 - `PTERO_TOKEN`: API key for accessing the Pterodactyl api
 
 Commands:
-- `/whitelist add {player_name}`: Add a player to the whitelist
+- `/whitelist add {player_name}`: Adds a player to the whitelist
 - `/whitelist remove {player_name}`: Removes a player from the whitelist
 
 Both commands upload the whitelist to all available servers
